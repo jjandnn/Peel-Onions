@@ -17,6 +17,10 @@
 // @exclude http://www.peelonions.net/*
 // @exclude https://peelonions.net/*
 // @exclude https://www.peelonions.net/*
+// @exclude https://github.com/jjandnn/*
+// @exclude https://www.github.com/jjandnn/*
+// @exclude https://github.com/jjandnn
+// @exclude https://www.github.com/jjandnn
 // ==/UserScript==
 // -------------------------------------------------------------
 alert('二货，谁让你这么容易轻信别人，随便点击乱七八糟的东西，呵呵！  你的支付宝账号密码我拿走了!——顶级黑客组织：PeelOnions');
